@@ -1,6 +1,12 @@
 {
   "tabs": [
     {
+      "id": 0,
+      "title": "A good stay every time.",
+      "body": "Zeus homes are not aggregated listings - we've personally vetted, inspected, designed, and stayed at each one to make sure it's perfect when you arrive. Our local team is here for you 24/7. Need a desk for your bedroom? Checking in at 3am? Something not right? We're always here to help.",
+      "image": "https://s3.amazonaws.com/zeus-test-assets/zeus-experience.jpg"
+    },
+    {
       "id": 1,
       "title": "Ready to go.",
       "body": "Be productive right when you arrive. Zeus homes are equipped with speedy WiFi (100 mbps or faster), and most come with Eero routers for an even stronger connection. HD TV and utilities are also included with every stay, so you can enjoy your home right away.",
@@ -8,18 +14,12 @@
     },
     {
       "id": 2,
-      "title": "A good stay every time.",
-      "body": "Zeus homes are not aggregated listings - we've personally vetted, inspected, designed, and stayed at each one to make sure it's perfect when you arrive. Our local team is here for you 24/7. Need a desk for your bedroom? Checking in at 3am? Something not right? We're always here to help.",
-      "image": "https://s3.amazonaws.com/zeus-test-assets/zeus-experience.jpg"
-    },
-    {
-      "id": 3,
       "title": "Designed with care.",
       "body": "Our designers curate and style every home down to the smallest detail. From Casper mattresses, hotel-style linens, and art adorned walls to E&O organic amenities, fully stocked kitchenwares, Equator coffee beans, and our signature candles. You'll feel right at home.",
       "image": "https://s3.amazonaws.com/zeus-test-assets/designed-by-zeus.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "We make things easy.",
       "body": "Book a stay in minutes with accurate, up-to-the minute availability and pricing. Our flexible leases make it easy to extend your stay, or move to a different home, no annoying paperwork or phone calls. Know exactly what to expect with real photos and 3D tours.",
       "image": "https://s3.amazonaws.com/zeus-test-assets/modern-take.jpg"
